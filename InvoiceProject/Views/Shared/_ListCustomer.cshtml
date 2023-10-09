@@ -1,0 +1,32 @@
+﻿    ﻿
+<table class="table table-striped" border="1">
+    <thead class="table-dark">
+        <tr class="table-hover">
+            <th class=" bg-black text-bg-dark rounded-start"><a href="#" id="SortName">Name</a></th>
+            <th class=" bg-black text-bg-dark text-primary text-decoration-underline"><a href="#" id="SortEmail">Email</a></th>
+            <th class=" bg-black text-bg-dark text-primary text-decoration-underline"><a href="#" id="SortAddress">Address</a></th>
+            <th class=" bg-black text-bg-dark text-primary text-decoration-underline">Contact</th>
+            <th class=" bg-black text-bg-dark rounded-end"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Address</td>
+                <td>@item.Contact</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CustomerId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CustomerId })
+                </td>
+
+                <input type="hidden"  value="@item.RowCount" id="rowCount" />
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
