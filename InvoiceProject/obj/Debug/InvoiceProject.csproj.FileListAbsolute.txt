@@ -1,0 +1,241 @@
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\csc.exe
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\vbc.exe
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll.config
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\InvoiceProject.pdb
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Razor.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Razor.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csprojResolveAssemblyReference.cache
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.pdb
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\PagedList.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.dll
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\PagedList.xml
+D:\Sagar Mhaske\MVC Practice\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\csc.exe
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\vbc.exe
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll.config
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\InvoiceProject.pdb
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\PagedList.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Razor.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\PagedList.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Razor.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.xml
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csprojResolveAssemblyReference.cache
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.dll
+D:\Sagar Mhaske\ProjectBackup\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.pdb
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\csc.exe
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\vbc.exe
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll.config
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\InvoiceProject.pdb
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\PagedList.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Razor.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\PagedList.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Razor.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.xml
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csprojResolveAssemblyReference.cache
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.dll
+D:\InvoiceProjectNeverFinel-2\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.pdb
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\csc.exe
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\vbc.exe
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll.config
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\InvoiceProject.pdb
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\PagedList.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Razor.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\PagedList.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Razor.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.xml
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csprojResolveAssemblyReference.cache
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.dll
+D:\Invoice With plugin\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.pdb
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\csc.exe
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\vbc.exe
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll.config
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\InvoiceProject.pdb
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\PagedList.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Razor.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\PagedList.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Razor.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.xml
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csprojResolveAssemblyReference.cache
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.dll
+D:\Invoice With plugin\invoice2\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.pdb
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\csc.exe
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\vbc.exe
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll.config
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\InvoiceProject.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\InvoiceProject.pdb
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\PagedList.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Razor.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\PagedList.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\PagedList.Mvc.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Razor.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Deployment.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Webpages.Razor.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Helpers.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\System.Web.Mvc.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csprojResolveAssemblyReference.cache
+D:\Invoce Project\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.pdb
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\BusinessLogicLayer.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\InvoiceEntities.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\DataAccessLayer.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\EntityFramework.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\BusinessLogicLayer.pdb
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\InvoiceEntities.pdb
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\DataAccessLayer.pdb
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\EntityFramework.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\EntityFramework.SqlServer.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\EntityFramework.SqlServer.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\IBusinessLogicLayer.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\IBusinessLogicLayer.pdb
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Ninject.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Ninject.Web.Common.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Ninject.Web.Mvc.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\WebActivatorEx.dll
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Ninject.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Ninject.Web.Common.xml
+D:\Invoce Project\InvoiceProject\InvoiceProject\bin\Ninject.Web.Mvc.xml

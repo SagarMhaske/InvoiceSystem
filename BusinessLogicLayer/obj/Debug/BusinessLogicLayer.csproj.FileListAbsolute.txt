@@ -1,0 +1,13 @@
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\InvoiceEntities.dll
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\InvoiceEntities.pdb
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\IBusinessLogicLayer.dll
+D:\Invoce Project\InvoiceProject\BusinessLogicLayer\bin\Debug\IBusinessLogicLayer.pdb
